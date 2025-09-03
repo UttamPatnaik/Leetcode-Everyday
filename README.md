@@ -14,9 +14,49 @@ This repo contains my daily solutions to [LeetCode](https://leetcode.com/) probl
 ---
 
 ## 📂 Repository Structure
-
-leetcode-tracker/
+```
+Leetcode-Everyday/
 ├── easy/ # Easy problems
 ├── medium/ # Medium problems
 ├── hard/ # Hard problems
 └── README.md # Documentation
+```
+
+---
+
+## 🛠️ Usage
+
+- Solutions are written in **Java** (with scope for more languages later).  
+- Each file includes:
+  - Problem statement link  
+  - Explanation / approach  
+  - Code solution
+
+---
+## ✅ Progress
+
+### Easy
+- [ ] Two Sum  
+- [ ] Reverse Linked List  
+- [ ] Valid Parentheses  
+
+### Medium
+- [ ] Add Two Numbers  
+- [ ] Group Anagrams  
+- [ ] Longest Substring Without Repeating Characters  
+
+### Hard
+- [ ] Median of Two Sorted Arrays  
+- [ ] Merge k Sorted Lists  
+- [ ] Regular Expression Matching  
+
+(📌 Updating regularly as I solve more 🚀)
+
+---
+
+## ⭐ Support
+If you find this repo helpful:  
+- ⭐ Give it a star on GitHub  
+- 🔗 Share it with others who are preparing for coding interviews  
+
+It motivates me to stay consistent and keep improving 💪
